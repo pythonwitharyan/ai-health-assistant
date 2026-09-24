@@ -13,7 +13,7 @@
 
 ---
 
-## 🌟 Overview
+## 🌟 Overview 
 
 AI Health Assistant allows users to enter basic health information and get nutrition and wellness recommendations.
 
