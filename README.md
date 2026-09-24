@@ -1,5 +1,5 @@
 # 🤖 AI Health Assistant
-
+a
 ### 🏋️ AI-Powered Health & Nutrition Recommendation System
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)](https://www.python.org/)
@@ -360,17 +360,7 @@ env/
 
 These files should **never** be committed to the public repository.
 
----
 
-# ⚠️ Disclaimer
-
-This application is designed for **educational and general wellness purposes only**.
-
-The calculations and AI-generated recommendations should not be considered medical diagnosis, treatment, or professional medical advice.
-
-For medical conditions, serious symptoms, allergies, or personalized medical guidance, consult a qualified healthcare professional.
-
----
 
 # 🚀 Future Improvements
 
